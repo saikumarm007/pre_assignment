@@ -36,7 +36,7 @@ let's go to amazon <https://www.amazon.com/>
 ![beautiful bearcat](https://github.com/saikumarm007/pre_assignment/blob/main/bearcat.jpg)
 
 | P | Q | P and Q |
-| ---| ---| --- |
+| ---| ---| :---: |
 | T | T | T |
 | T | F | F |
 | F | T | F |
