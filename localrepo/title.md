@@ -30,3 +30,5 @@ Before the rule we want a blank line
 And after as well.        
 
 [Google](https://www.google.com/)
+
+let's go to amazon <https://www.amazon.com/>
